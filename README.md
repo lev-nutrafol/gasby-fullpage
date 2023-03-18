@@ -1,4 +1,4 @@
-# isolated repo for fulpage issue
+# isolated repo for fullpage issue
 
 ## Running in development
 
