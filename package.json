@@ -1,0 +1,27 @@
+{
+  "name": "gatsby-starter-hello-world",
+  "description": "Gatsby hello world starter",
+  "license": "GPL-3.0",
+  "scripts": {
+    "develop": "gatsby develop",
+    "build": "export SET NODE_OPTIONS=--openssl-legacy-provider && gatsby build",
+    "serve": "export SET NODE_OPTIONS=--openssl-legacy-provider && gatsby serve"
+  },
+  "dependencies": {
+    "@fullpage/react-fullpage": "^0.1.36",
+    "@emotion/core": "^10.0.22",
+    "@emotion/react": "^11.1.5",
+    "@emotion/styled": "^11.1.5",
+    "@fullstory/babel-plugin-annotate-react": "^2.1.2",
+    "@nutrafol/nutrafol-ui-kit": "2.0.39",
+    "@nutrafol/popup-helper": "0.1.13",
+    "gatsby": "^4.22.1",
+    "gsap": "^3.9.1",
+    "react-helmet": "^6.1.0",
+    "@rebass/grid": "^6.1.0",
+    "react-refresh": "^0.14",
+    "react": "^18.1.0",
+    "react-dom": "^18.1.0",
+    "svg-react-loader": "^0.4.6"
+  }
+}
